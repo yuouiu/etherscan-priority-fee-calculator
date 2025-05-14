@@ -6,8 +6,6 @@ A Tampermonkey userscript that enhances Etherscan transaction pages by displayin
 
 - Real-time Priority Fee calculation for EIP-1559 transactions
 - Displays fees in both Gwei and ETH units
-- Clean and intuitive UI integration with Etherscan
-- Supports all Etherscan subdomains
 - Automatic calculation upon page load
 
 ## Installation
